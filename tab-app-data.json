@@ -1,0 +1,11 @@
+{
+    "version": "1.0.1",
+    "releaseDate": "2025-12-30",
+    "downloadUrl": "https://github.com/yourname/TakeABlink/releases/latest",
+    "changelog": [
+        "Added GIF support",
+        "Improved UI",
+        "Bug fixes"
+    ],
+    "minVersion": "1.0.0"
+}
